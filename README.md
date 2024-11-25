@@ -1,8 +1,10 @@
-# React + Vite
+<h1 align="center"> Quiz Automotivo 🛻 </h1>
+<p align="center"> Projeto totalmente responsivo utilizando HTML, CSS, JavaScript, React e Vite. </p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
 
-Currently, two official plugins are available:
+![Quiz](https://github.com/user-attachments/assets/7a8ef29f-1ba2-4114-aca7-ac7a6d738948)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
+
+<p align="center"> Link para acesso: https://quizautomotivo.vercel.app/</p>
