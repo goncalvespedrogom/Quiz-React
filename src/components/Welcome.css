@@ -4,16 +4,30 @@
 }
 
 #welcome h2{
-    margin-top: .5rem;
-    margin-bottom: 2rem;
+    margin-top: 4rem;
+    margin-bottom: .5rem;
 }
 
 #welcome p {
-    color: #8435de;
-    margin-top: 3rem;
-    margin-bottom: 1rem;
+    color: #fff;
 }
 
 #welcome img {
     margin-top: 2rem;
+    margin-bottom: 2rem;
+    max-width: 300px;
+}
+
+@media(max-width: 620px){
+    #welcome {
+        margin-bottom: 3rem;
+    }
+
+    #welcome h2 {
+        margin-top: .5rem;
+    }
+
+    #welcome img {
+        max-width: 280px;
+    }
 }
